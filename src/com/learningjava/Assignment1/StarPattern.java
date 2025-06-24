@@ -1,6 +1,6 @@
 package com.learningjava.Assignment1;
 
-public class StarPatten {
+public class StarPattern {
         public static void main(String[] args) {
             int size = 4; // Input size
 
